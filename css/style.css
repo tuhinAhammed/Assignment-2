@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.avater-image {
+    width: 26%;
+    margin: 8px 0px 0px 37%;
+    border-radius: 67%;
+}
+.main-container {
+    border: 1px solid green;
+    background-color: #ededed;
+    height: 552px;
+    width: 371px;
+}
+.content{
+    display:inline
+}
+
+.input{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.dont-account{
+    text-align:center;
+}
+.First-Name {
+    width: 130px;
+    display: inline;
+    padding: 8px;
+    margin: 10px 19px 5px 30px;
+    font-size: 16px;
+    border: 1px solid black;
+}
+    .last-name {
+        width: 130px;
+        display: inline;
+        padding: 8px;
+        font-size: 16px;
+        margin-left: -12px;
+        border: 1px solid black;
+    }
+    .form-list input {
+        width: 291px;
+        padding: 8px;
+        font-size: 16px;
+        margin: 4px 30px;
+        border: 1px solid black;
+    }
+    .form-list select {
+        width: 309px;
+        padding: 8px;
+        font-size: 16px;
+        margin: 4px 30px;
+        border: 1px solid black;
+    }
+    .list{
+        margin-left: 30px;
+        font-size: 14px;
+        text-align: center;
+        display: inline;
+    }
+    .gender-list{
+        text-align: center;
+        font size: 14px;
+    }
+    .list{
+        font-size: 13px;
+    }
+    .privasy{
+        text-align: center;
+        margin-right: 5px;
+    }
+    .submit-button input {
+        border-radius: 5px;
+        background-color: black;
+        font-size: 23px;
+        width: 191px;
+        padding: 10px;
+        margin: 8px 91px;
+        
+        padding: 7px;
+        font-weight: 71px;
+        color: white;
+        letter-spacing: 3px;
+    }
+    .submit-button input:hover{
+        background:transparent;
+        cursor: pointer;
+        color: black;
+        transition: 1s;
+        font-weight: 1200px;
+        font-size: 23px;
+        border: 2px solid black;
+    }
+    .social-section {
+        text-align: center;
+        margin-right: 0px;
+    }
+    .social-icon{
+     display: block;
+     text-align: center;
+     list-style: none;
+     
+ }
+ .social-icon li{
+  
+  display:inline;
+  
+ }
+ .social-icon li a {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    line-height: 50px;
+    color: white;
+    
+}
+.social-icon li a:hover{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: transparent;
+    line-height: 50px;
+    color: black;
+    transition: 1s;
+    border: 2px solid black;
+}
+
+.login-form{
+    width: 380px;
+    height: 330px;
+    background-color: #eee;
+}
+.login-image {
+    width: 26%;
+    text-align: center;
+    border-radius: 67%;
+    margin: 20px 140px;
+}
+.login-button input{
+    border-radius: 5px;
+        background-color: black;
+        font-size: 23px;
+        width: 191px;
+        padding: 10px;
+        margin: 8px 91px;
+        padding: 7px;
+        font-weight: 71px;
+        color: white;
+        letter-spacing: 3px;
+}
+.login-button input:hover{
+    background:transparent;
+        cursor: pointer;
+        color: black;
+        transition: 1s;
+        font-weight: 1200px;
+        font-size: 23px;
+        border: 2px solid black;
+    }
+}
+.
